@@ -1,0 +1,49 @@
+{
+    "name": "spinen/laravel-transformers",
+    "description": "A way of using transformers for Eloquent models in Laravel.",
+    "keywords": [
+        "transformers",
+        "laravel",
+        "library",
+        "spinen"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jimmy Puckett",
+            "email": "jimmy.puckett@spinen.com"
+        },
+        {
+            "name": "David Mathews",
+            "email": "david.mathews@spinen.com"
+        },
+        {
+            "name": "Stephen Finney",
+            "email": "stephen.finney@spinen.com"
+        },
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/support": "~5.1.10|5.2.*|5.3.*",
+    },
+    "require-dev": {
+        "mockery/mockery": "^0.9.1",
+        "phpunit/phpunit": "~4.0|~5.0",
+        "psy/psysh": "^0.5.1",
+        "satooshi/php-coveralls": "^0.6.1",
+        "symfony/var-dumper": "~2.7|~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spinen\\Transformers\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Spinen\\Transformers\\": "tests"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
