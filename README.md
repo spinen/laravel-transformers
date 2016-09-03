@@ -4,7 +4,7 @@ Transformers for Laravel's Eloquent models
 [![Latest Stable Version](https://poser.pugx.org/spinen/laravel-transformers/v/stable)](https://packagist.org/packages/spinen/laravel-transformers)
 [![Total Downloads](https://poser.pugx.org/spinen/laravel-transformers/downloads)](https://packagist.org/packages/spinen/laravel-transformers)
 [![Latest Unstable Version](https://poser.pugx.org/spinen/laravel-transformers/v/unstable)](https://packagist.org/packages/spinen/laravel-transformers#dev-master)
-[![Dependency Status](https://www.versioneye.com/php/spinen:laravel-transformers/0.1.1/badge.svg)](https://www.versioneye.com/php/spinen:laravel-transformers/0.1.1)
+[![Dependency Status](https://www.versioneye.com/php/spinen:laravel-transformers/0.1.0/badge.svg)](https://www.versioneye.com/php/spinen:laravel-transformers/0.1.0)
 [![License](https://poser.pugx.org/spinen/laravel-transformers/license)](https://packagist.org/packages/spinen/laravel-transformers)
 
 ## Build Status
