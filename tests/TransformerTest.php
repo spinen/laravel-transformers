@@ -49,7 +49,7 @@ class MockedModel extends Model
  *
  * @package App\Support\Transformation
  */
-Class TransformerStub extends Transformer
+class TransformerStub extends Transformer
 {
     /**
      * The method that actually converts the data using the map in the class
